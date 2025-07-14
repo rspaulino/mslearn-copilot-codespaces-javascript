@@ -2,7 +2,7 @@
 // https://github.com/devcontainers/images/tree/main/src/javascript-node
 {
     "name": "JavaScript Portfolio Site with GitHub Codespaces",
-    "image": "mcr.microsoft.com/devcontainers/javascript-node:latest",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:0-20",
     "hostRequirements": {
       "cpus": 4
     },
